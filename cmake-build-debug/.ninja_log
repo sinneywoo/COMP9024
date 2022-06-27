@@ -1,8 +1,0 @@
-# ninja log v5
-13	166	6761157207134166	CMakeFiles/week01_q1.dir/IntStack.c.obj	e7a35596af17c227
-26	215	6761157207434189	CMakeFiles/week01_q1.dir/binary.c.obj	dbb0b2ab72f1f1d2
-0	176	6761158902195932	build.ninja	599b78b28bd50aaf
-2	150	6761157411292532	week01_q1.exe	6b3a9640a8522bca
-2	118	6761157879320634	CMakeFiles/week01_q1.dir/main.cpp.obj	eff0ca16cf668b96
-2	268	6763555627101296	CMakeFiles/week01_q1.dir/binary.c.obj	dbb0b2ab72f1f1d2
-268	1792	6763555642602896	week01_q1.exe	6b3a9640a8522bca
